@@ -38,3 +38,11 @@ print("-".join((str(mi_rut), str(digito_verificador(mi_rut)))))
 # llamamos a la funcion Directamente...
 funcion_tonta("Daniel")
 
+# para terminar las cosas...
+# git add ejemplo_funciones.py
+# git commit -m "agregamos ejemplos de uso de funciones"
+# git checkout master
+# git pull
+# git merge dm_ejemplo_funciones
+# git push
+# git branch -d dm_ejemplo_funciones
